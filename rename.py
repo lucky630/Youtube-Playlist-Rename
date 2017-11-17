@@ -1,5 +1,5 @@
-##this script will rename the default name for the videos
-##downloaded for all playlist using megavn.com
+##this script will rename the default name for the videos of the playlist
+##downloaded by using megavn.com
 import os
 import re
 
